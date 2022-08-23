@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iconnectTask", "iconnectTask\iconnectTask.csproj", "{C6C67574-6B2C-49EF-ABF3-EE1994ABE723}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6C67574-6B2C-49EF-ABF3-EE1994ABE723}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6C67574-6B2C-49EF-ABF3-EE1994ABE723}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6C67574-6B2C-49EF-ABF3-EE1994ABE723}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6C67574-6B2C-49EF-ABF3-EE1994ABE723}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FE7547A-6D4B-4199-A218-645190828F8D}
+	EndGlobalSection
+EndGlobal
